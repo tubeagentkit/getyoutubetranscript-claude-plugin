@@ -1,0 +1,15 @@
+{
+  "name": "getyoutubetranscript",
+  "description": "The GetYouTubeTranscript plugin for Claude Code: YouTube transcripts, search, channels and playlists.",
+  "owner": {
+    "name": "GetYouTubeTranscript",
+    "url": "https://getyoutubetranscript.com"
+  },
+  "plugins": [
+    {
+      "name": "getyoutubetranscript",
+      "source": "./",
+      "description": "YouTube transcripts, search, channels and playlists in Claude through the GetYouTubeTranscript MCP server."
+    }
+  ]
+}

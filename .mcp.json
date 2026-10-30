@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "getyoutubetranscript": {
+      "type": "http",
+      "url": "https://getyoutubetranscript.com/api/mcp"
+    }
+  }
+}

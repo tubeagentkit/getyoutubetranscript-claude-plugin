@@ -1,0 +1,19 @@
+{
+  "name": "getyoutubetranscript",
+  "displayName": "GetYouTubeTranscript",
+  "version": "1.0.0",
+  "description": "Read YouTube from Claude: fetch a video's transcript (with timestamps or translation), search YouTube, and browse channels and playlists through the GetYouTubeTranscript MCP server.",
+  "author": {
+    "name": "GetYouTubeTranscript",
+    "url": "https://getyoutubetranscript.com"
+  },
+  "homepage": "https://getyoutubetranscript.com/youtube-mcp-server",
+  "repository": "https://github.com/tubeagentkit/getyoutubetranscript-claude-plugin",
+  "license": "MIT",
+  "keywords": ["youtube", "transcript", "captions", "subtitles", "video", "search", "research", "mcp"],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://getyoutubetranscript.com/docs",
+  "supportUrl": "https://getyoutubetranscript.com/contact",
+  "privacyPolicyUrl": "https://getyoutubetranscript.com/privacy-policy",
+  "termsOfServiceUrl": "https://getyoutubetranscript.com/terms-and-conditions"
+}
